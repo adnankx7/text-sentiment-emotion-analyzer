@@ -15,7 +15,7 @@ A simple Streamlit web application that uses pre-trained NLP models to analyze *
 
 ## 📦 Dependencies
 
-- Python 3.7+
+- Python 3.10+
 - [Transformers](https://huggingface.co/transformers/)
 - [Streamlit](https://streamlit.io/)
 - [Torch](https://pytorch.org/)
